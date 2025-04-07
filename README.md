@@ -12,7 +12,7 @@ Make sure to grabe a Hugging Face token to download the model.
 This is an experimental layer that merges ideas from liquid neural networks with static transformer models, using a simple but powerful "plug-in": the Spray Layer.
 Inspired by graffiti art of tagging and the neuroplastic nature of living brains, this layer injects a memory trace directly into the final stages of transformer inference — no finetuning, no retraining. It is minimal, modular, and compatible with any model that exposes hidden states.
 
-Dense neural networks are still very curous and misterious black boxes. New techniques are emerging for studying and respectivelly controlling them.  
+Dense neural networks are still very curous and misterious black boxes. New techniques are emerging for studying and respectively controlling them.  
 
 <b>Neural Graffiting</b> is an experimental technique that modulate the way a pre-trained model behave by injecting memory, opinions and other information directly into the vector embeddings, altering the generative token predictions. This influences not only the output but the entire line of "thinking" of the model - <i>changing how it relates words and concepts on its mind over time</i>.
 
