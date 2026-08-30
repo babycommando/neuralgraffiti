@@ -1,5 +1,5 @@
 ![Grupo 4](https://github.com/user-attachments/assets/088a8ed3-7636-44af-a69d-5fe6d2e140fe)
-![2Web 1920 – 9](https://github.com/user-attachments/assets/90b3639e-abbd-49a7-8a16-ddeaa71d8f21)
+![2Web 1920 – 9](https://github.com/user-attachments/assets/7ed4c95c-3098-4a33-be2b-363dcc596114)
 
 <i>Neuroplasticity for any pre-trained LLM in real time.</i>
 
